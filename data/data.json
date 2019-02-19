@@ -1,0 +1,6173 @@
+{
+  "tasks": [
+    {
+      "taskName": "Code Jam \"CV\"",
+      "taskLink": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-cv.md",
+      "taskStatus": "Checked"
+    },
+    {
+      "taskName": "Code Jam \"CoreJS\"",
+      "taskLink": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-corejs.md",
+      "taskStatus": "Checked"
+    },
+    {
+      "taskName": "Code Jam \"DOM, DOM Events\"",
+      "taskLink": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-notification.md",
+      "taskStatus": "Checked"
+    },
+    {
+      "taskName": "Markup #1",
+      "taskLink": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/markup-2018q3.md",
+      "taskStatus": "Checking"
+    },
+    {
+      "taskName": "RS Activist -",
+      "taskLink": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/rs-school-activist.md",
+      "taskStatus": "In Progress"
+    },
+    {
+      "taskName": "YouTube",
+      "taskLink": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/youtube.md",
+      "taskStatus": "Checking"
+    },
+    {
+      "taskName": "CodeJam \"Scoreboard\"",
+      "taskLink": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-scoreboard.md",
+      "taskStatus": "Checking"
+    },
+    {
+      "taskName": "Game",
+      "taskLink": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/game.md",
+      "taskStatus": "In Progress"
+    },
+    {
+      "taskName": "Course work",
+      "taskStatus": "ToDo"
+    }
+  ],
+  "mentors": [
+    {
+      "mentorName": "Sergey Maksimuk",
+      "mentorGithub": "maximuk",
+      "students": [
+        {
+          "studentGithub": "andrei-oksentyk",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "wertybsd",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "halaveika",
+          "checkedTasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "liodama",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation",
+            "RS Activist"
+          ]
+        },
+        {
+          "studentGithub": "alexey-1991",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "fyr-fyrrr",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "redgektor",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "alexdejko",
+          "checkedTasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "alenashkr",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "uniapi",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Zayats",
+      "mentorGithub": "alex-zayats",
+      "students": [
+        {
+          "studentGithub": "uniorunr",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "alexeydavydov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "melllivoracapensis",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "soulshaker",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Akiaksandr Zahorski",
+      "mentorGithub": "AliaksandrZahorski",
+      "students": [
+        {
+          "studentGithub": "grenbork",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "bananovblu",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "bmvmarc",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "taukitianin",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "deepenguin",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Siarhei Prystauka",
+      "mentorGithub": "Pristavka",
+      "students": [
+        {
+          "studentGithub": "jamadamur",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "tsvetlanak",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "alehdzmitrenka",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dzhudzhi",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzianis Pryshchep",
+      "mentorGithub": "dpryshchep",
+      "students": [
+        {
+          "studentGithub": "kira2023",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "vvsvintsitsky",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "molestador",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "kiryllapouski",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Klimau",
+      "mentorGithub": "quantum-noise",
+      "students": [
+        {
+          "studentGithub": "0riac",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "terstuyahmaksim",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": 803142,
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nickitasolovei",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "saint-artiom",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Artsiom Haurylin",
+      "mentorGithub": "ahaurylin",
+      "students": [
+        {
+          "studentGithub": "olgaluk",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "groamed",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "grapeperson",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "rbarakhvostov",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Elena Grebenchuk",
+      "mentorGithub": "elgrebenchuk",
+      "students": [
+        {
+          "studentGithub": "andreiyasinski",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "duza",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "anton23kirienko",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "gandigap",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Andrei Furs",
+      "mentorGithub": "yganda",
+      "students": [
+        {
+          "studentGithub": "ishelest",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yakgjen",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "inanutshell86",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "sffirm",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "zetrox-x",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "juliasnoww",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "loori-r",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzianis Bunchanka",
+      "mentorGithub": "DenisBun",
+      "students": [
+        {
+          "studentGithub": "kvinto1986",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "maksimaliakhnovich",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "superorange",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yauheni23",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Rem Apasov",
+      "mentorGithub": "remapasov",
+      "students": [
+        {
+          "studentGithub": "frol8612",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "snowwe",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "dongor7",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "zettrix",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "innazl",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Tatsiana Khinevich",
+      "mentorGithub": "TatsianaKhinevich-EPAM",
+      "students": [
+        {
+          "studentGithub": "makouskiyan",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "shest28",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Andrei Zhuk",
+      "mentorGithub": "Andrei-Zhuk",
+      "students": [
+        {
+          "studentGithub": "torchik-slava",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "antihero",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "RS Activist",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "karpiyeniamv",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "kirillzavorotni",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "makar1227",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "mudreuski",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "artkon",
+          "checkedTasks": [
+            "Code Jam \"CV\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Mikita Zhuikou",
+      "mentorGithub": "Nikitzu",
+      "students": [
+        {
+          "studentGithub": "felalag",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "xixex",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "YouTube",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "bumble-bee83",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "mikhama",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "RS Activist",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "angryivan",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "alexandr-savkov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dimalinnik",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksei Zayats",
+      "mentorGithub": "alex-mnsk",
+      "students": [
+        {
+          "studentGithub": "kozyritskiy",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "artyom123",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "evamaster",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "elenakhamitsevich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nastyalo",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "lveliarl",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "spinagrblzzz",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Pavel Zaletski",
+      "mentorGithub": "PavelZaletski",
+      "students": [
+        {
+          "studentGithub": "andddrews",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "bref987",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "sergey496",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "anna-sh",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "ilyaryabchinski",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Yana Zaitsava",
+      "mentorGithub": "yana95",
+      "students": [
+        {
+          "studentGithub": "mikhailmaniuk",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "shakhnovapolina",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yana-bashtyk",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "olganaranovich",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Pavel Yukhnevich",
+      "mentorGithub": "tibmt",
+      "students": [
+        {
+          "studentGithub": "kasiama",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "magiccurlyhair",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "iryna-markovich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "ivankirsd",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "argaitt",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "danteboom",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "passhub",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Anton Yatskevich",
+      "mentorGithub": "a-yatskevich",
+      "students": [
+        {
+          "studentGithub": "mrdreaml",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "tsypolina",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "evgeniy121",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "jadgptw",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Viktoriya Vorozhun",
+      "mentorGithub": "ViktoriyaVorozhun",
+      "students": [
+        {
+          "studentGithub": "toxandreev",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "evgeniyaverbiczkaya",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "martikoscoder",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "mayinmarch",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "christina-ilyushonok",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Nikolai Verbitskii",
+      "mentorGithub": "NikolaiVerbitskii",
+      "students": [
+        {
+          "studentGithub": "shanhinpavel",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "igor82bv",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "klimenkomaksim",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "uladzimir-yeudakimovich",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Igor Tsialiuk",
+      "mentorGithub": "sijlver",
+      "students": [
+        {
+          "studentGithub": "metre-ray",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "napro23",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "artur-alexandrov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "overkektus",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "zhekix",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "MIKITA TRUKHANAVETS",
+      "mentorGithub": "ntrukhanovets",
+      "students": [
+        {
+          "studentGithub": "vanyatsar",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "lordshtein",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "ekoniuh",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "evpodrezenko",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "cruecer",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "annchapon",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Kiryl Tofan",
+      "mentorGithub": "KVtofan",
+      "students": [
+        {
+          "studentGithub": "thesheepman",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "brokorenko",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "vovakor1",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "hentmire",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "rubahaguy",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "egorbudnik",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Katsiaryna Tatarynovich",
+      "mentorGithub": "etatarinovich18",
+      "students": [
+        {
+          "studentGithub": "kaleniksasha",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "ue4prog",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "sk1ngr0s",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "alexshumansky",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "margoshulpina",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Uladzislau Tarasenka",
+      "mentorGithub": "einfachvlad",
+      "students": [
+        {
+          "studentGithub": "aleksei-bulgak-study",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "Presentation",
+            "YouTube",
+            "RS Activist",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "margharita",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "lazovskyigor",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dyatelvudu",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "YouTube"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Tachko",
+      "mentorGithub": "aliaksandrT",
+      "students": [
+        {
+          "studentGithub": "leshich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "tamefreak",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "shutya",
+          "checkedTasks": [
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "dgekaa",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "leontyevatatyana",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "19alexandr90",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzianis Sushchenya",
+      "mentorGithub": "sushchenja",
+      "students": [
+        {
+          "studentGithub": "nightman20104",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "irin-ka",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "daniil-loban",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "RS Activist",
+            "RS Activist",
+            "RS Activist",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "misharsweb",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Daniil Suleiman",
+      "mentorGithub": "sulemanof",
+      "students": [
+        {
+          "studentGithub": "heaveek",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "olegsabodash",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "andriva",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "meearlyam",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "veronikavasilchikova",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Mikita Subbot",
+      "mentorGithub": "nsubbot",
+      "students": [
+        {
+          "studentGithub": "eughene-cherepov",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "moraviin",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "petriken",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "luzko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "finnibyh",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "aglayasv",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "tonykosmos",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Anton Stsiapanau",
+      "mentorGithub": "stpnvntn",
+      "students": [
+        {
+          "studentGithub": "metalhammer4",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "rudlevsky",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "ostik266",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "katekosushkina",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "viki-klipp",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "anyalenko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "northingvar",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Alexander Spesivtsev",
+      "mentorGithub": "shuspes",
+      "students": [
+        {
+          "studentGithub": "prudnikov888",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "sergeyskakun",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "petersonby",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "aliaksandrposakh",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "formalinfigs",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Mikalai Sokarau",
+      "mentorGithub": "mikalai-sokarau",
+      "students": [
+        {
+          "studentGithub": "f8b23lef",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "yrapank",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "jenia-shibkova",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "magerrrr",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "danila211",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "juliazakharik",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Kseniya Smorshchek",
+      "mentorGithub": "KseniyaSmorshchek",
+      "students": [
+        {
+          "studentGithub": "ltcolumbo",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "veterkam",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yurychajkou",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "catrieona",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "ankorbay",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CV\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Arseni Shynkarenka",
+      "mentorGithub": "arhigod",
+      "students": [
+        {
+          "studentGithub": "nastya-ropot",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Markup #1",
+            "YouTube",
+            "YouTube",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "mozgoen",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "hellsingi",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "YouTube",
+            "Presentation",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "yeilya",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "polotenchik",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Markup #1",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "tshkursk",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Andrei Shyliahin",
+      "mentorGithub": "Atzkdeff",
+      "students": [
+        {
+          "studentGithub": "olegkizz",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "lazouskikiryl",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "dimabog22",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "bigshaqmnh",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "antonnaumchik",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzianis Shutsikau",
+      "mentorGithub": "Shutya",
+      "students": [
+        {
+          "studentGithub": "kirillstarlight",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "waldemar999",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "kushnerevich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "igarok91",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "aliakseibabko",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "gleb7raul",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "zhekaprb",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Klim Shuplenkou",
+      "mentorGithub": "Klim711",
+      "students": [
+        {
+          "studentGithub": "dmlaziuk",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vladqqqqoo",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "globalbobone",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "wushukms",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Elena Shokhan",
+      "mentorGithub": "ElenaShokhanEPAM",
+      "students": [
+        {
+          "studentGithub": "aborisenok",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "valiantsinlopan",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "egormiwa1",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "foxygirl44",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Andrei Shelenhouski",
+      "mentorGithub": "manuminsk",
+      "students": [
+        {
+          "studentGithub": "smajlichak",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "zm1try",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "jstrr",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "kirill82",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "blackcat1397",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzianis Sheka",
+      "mentorGithub": "davojta",
+      "students": [
+        {
+          "studentGithub": "pavalescoba",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "kashapov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "michaeldaineka",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "lesechka",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "vasiliyrepin",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation",
+            "Markup #1",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "mike80by",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "sergeyshestak",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "victorbelikov",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "auseika",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "YouTube",
+            "RS Activist",
+            "RS Activist",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "iharpadbiarezski",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Yahor Sheinikau",
+      "mentorGithub": "Naooki",
+      "students": [
+        {
+          "studentGithub": "eveshad",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "mbulldozer",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "starkary",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "olgalazarevich",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "holeil",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Tsikhan Shcharbakou",
+      "mentorGithub": "forkollaider",
+      "students": [
+        {
+          "studentGithub": "aalexsoloveiko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "sergeibel",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "do100han",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "zhecha",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "odegay",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "mill9r",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Mikalai Shchakatsikhin",
+      "mentorGithub": "Hirurgo",
+      "students": [
+        {
+          "studentGithub": "tanya98",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "mixniuk",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "xseniia",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "nataligleb",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "valeriyager",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Anton Sharapa",
+      "mentorGithub": "asharapa",
+      "students": [
+        {
+          "studentGithub": "mentos2805",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "sergeybandar",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "alexanderkononok",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "mrmars20",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Kiryl Shaliapin",
+      "mentorGithub": "CyrilShalyapin",
+      "students": [
+        {
+          "studentGithub": "sergeyakzhik",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "kulinar310",
+          "checkedTasks": [
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "cropotan",
+          "checkedTasks": [
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "vitalydmitriev",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "philipsh",
+          "checkedTasks": [
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "vero-nika",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vladsemenik",
+          "checkedTasks": [
+            "Markup #1"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Illia Sauchuk",
+      "mentorGithub": "IlyaLisitsin",
+      "students": [
+        {
+          "studentGithub": "meller96",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "ogurez",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "mrlapka",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "olexxxey",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "xelson",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "amoebiusss",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "megustafather",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Ekaterina Sanko",
+      "mentorGithub": "katya-sanko",
+      "students": [
+        {
+          "studentGithub": "kyleshovbb",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yabeda79",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "sergmi",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "disa0808",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "pulya10c",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Yuliya Samuilik",
+      "mentorGithub": "yulia9",
+      "students": [
+        {
+          "studentGithub": "prometei299",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "sergeypunko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "zurzur",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "edaineko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "seidou99",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzmitry Samuilik",
+      "mentorGithub": "Sambl4",
+      "students": [
+        {
+          "studentGithub": "sches",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "simaxa7",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "RS Activist",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "polinamoiseyenko",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "sashakaralchuk",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Yauheni Rutkouski",
+      "mentorGithub": "erutkovsky",
+      "students": [
+        {
+          "studentGithub": "hecateenitharmon",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "mdgh",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "mggeroff",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "soulos410",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "boshka0",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Rudzin",
+      "mentorGithub": "RudikAleksandr",
+      "students": [
+        {
+          "studentGithub": "mrchester",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "mxwoodie",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "psevkin",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "alexeevadaria",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "spiritforest",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "chekni",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "shymaxer",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Mikita Rudy",
+      "mentorGithub": "NikitaRudy",
+      "students": [
+        {
+          "studentGithub": "sad4itananda",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "kalitamih",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "evgenprushk",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "mrstalon",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "avaprin",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "haspadarz-padmensku",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "svoboda-rabstvo",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Andres Rios",
+      "mentorGithub": "rianby64",
+      "students": [
+        {
+          "studentGithub": "yaroslav-mig",
+          "checkedTasks": [
+            "Markup #1",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "novikovantony",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "mayblackwood",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "anastminsk",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "28halavach",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "40grivenprog",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "igordive",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nataliamotuz",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzianis Reznik",
+      "mentorGithub": "dzianisreznik",
+      "students": [
+        {
+          "studentGithub": "eugene3112",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "heat98",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "tanyamatesha",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "egorgorbik",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "vicrodzko",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "ilyatrat",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "unbelievablysmart",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "viktoryia-hrechykha",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Artsiom Reutovich",
+      "mentorGithub": "Xelsoid",
+      "students": [
+        {
+          "studentGithub": "ivanmatsur",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "usermeme",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "virusss",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nikaz123",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Razumovich",
+      "mentorGithub": "razumovich",
+      "students": [
+        {
+          "studentGithub": "kvatoferma",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vladagaravaya",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "chernyshovaalexandra",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "jacksonbr87",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzmitry Ramaniuk",
+      "mentorGithub": "DmitryRomaniuk",
+      "students": [
+        {
+          "studentGithub": "andreikrivets",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "lavazzakate",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "2kevink",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"Scoreboard\"",
+            "YouTube",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "vladislavrebko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "amoyt",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Yauheni Ralko",
+      "mentorGithub": "yralko",
+      "students": [
+        {
+          "studentGithub": "anna-pronovich",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "artemiusv",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nataliakazakevich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "kseniyasokolovskaya",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "zmichgen",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Anastasiya Pryvalava",
+      "mentorGithub": "anastasiaprivalova",
+      "students": [
+        {
+          "studentGithub": "sergaunt",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "brateckrolikstudent",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "venomamd",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vetal11",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzmitry Prudnikau",
+      "mentorGithub": "diprudnikov",
+      "students": [
+        {
+          "studentGithub": "leshka98",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "siarheikresik",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "dianakay",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "tvj888",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "alexkov90",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "mpot7",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "charmant",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Hanna Pratasevich",
+      "mentorGithub": "Anik188",
+      "students": [
+        {
+          "studentGithub": "horoshaya",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "RS Activist",
+            "Markup #1",
+            "RS Activist",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "martinkevichyana",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "montik-pc",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "jeka98",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "renardby",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "RS Activist",
+            "Markup #1",
+            "Presentation",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "sergeyguchok",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "aytsan",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Markup #1"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Artsiom Piakhota",
+      "mentorGithub": "LithiumFallen",
+      "students": [
+        {
+          "studentGithub": "sunrisekovalevski",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "spacebrains",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "pincherinka",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "victoriathebrave",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Yauheni Pasiukevich",
+      "mentorGithub": "pasyukevich",
+      "students": [
+        {
+          "studentGithub": "yanachchchka",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yalovikea",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "volhashy",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "crunkagator",
+          "checkedTasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "alenabde",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "maksimyakush",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "boobaley",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Kiryl Panou",
+      "mentorGithub": "kirillpanov",
+      "students": [
+        {
+          "studentGithub": "helpthewalrus",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "aliaksandrlosich",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "dmsolov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "bogdanka",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "srjkaa",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "godofnoobs",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "uivgray",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzmitry Panamarenka",
+      "mentorGithub": "dzmitrypanamarenka",
+      "students": [
+        {
+          "studentGithub": "stas4it",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "vladislavmakarevich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "juliankov",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation",
+            "Markup #1",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "niksrakevich",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Markup #1",
+            "Code Jam \"CV\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Andrei Palchys",
+      "mentorGithub": "apalchys",
+      "students": [
+        {
+          "studentGithub": "vladyaremeko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "ton9q",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "nktvlkvch",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "valentinlipai",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "mazhoranta",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Volha Paddubka",
+      "mentorGithub": "OlgaPoddubko",
+      "students": [
+        {
+          "studentGithub": "shet1990",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "maksagit",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "melk0sha",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "tanyasamal",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "karsash",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dimadk24",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Novik",
+      "mentorGithub": "AlexNo",
+      "students": [
+        {
+          "studentGithub": "xlopec23",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "odinrossy",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vlad0mag0",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "kir-22",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "snaiperlod",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "llitrixkod",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Yana Niaronskaya",
+      "mentorGithub": "YanaNeronskaya",
+      "students": [
+        {
+          "studentGithub": "ilyay95",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "allexblaze",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dekim12",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "RS Activist"
+          ]
+        },
+        {
+          "studentGithub": "dimamavrin",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vitalmizevich",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Natalya Nekazakova",
+      "mentorGithub": "natashanekazakova",
+      "students": [
+        {
+          "studentGithub": "wladimirmihalev",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "antoprokopovich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "iharpashkevich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": 375291601334,
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Mikhail Naharayeu",
+      "mentorGithub": "MikhailLU",
+      "students": [
+        {
+          "studentGithub": "elusiveway",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "cirillius",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "eugenepochenkov",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "lx-931203",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "astravukh",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "zetorby",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Maryia Nabzdorava",
+      "mentorGithub": "Maryia-N-N",
+      "students": [
+        {
+          "studentGithub": "crypto-kittensseller",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "dyadinmax",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "alexeynovomlinets",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "antonysawyer",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Arif Mustafazade",
+      "mentorGithub": "mustafazadeAR",
+      "students": [
+        {
+          "studentGithub": "sobolevyuri",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "credov",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "clericus",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dbaceko",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "frontsideman",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Barys Marukhin",
+      "mentorGithub": "barysmarukhin",
+      "students": [
+        {
+          "studentGithub": "denhock",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "kirillgalimov",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "igor-provotorov",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "kamatozzzik",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Andrei Markovich",
+      "mentorGithub": "themarkmarrone",
+      "students": [
+        {
+          "studentGithub": "ener9ettt",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "petromath77",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "barsolet",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yanrishbe",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "juliamv",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "icebergnevercries",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "tamarashautsova",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Volha Mardvilka",
+      "mentorGithub": "olgamardvilko",
+      "students": [
+        {
+          "studentGithub": "vladsanko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "serzhanhelena",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "georgyminsk",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "greg1996",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "goldenkit",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Mamonenka",
+      "mentorGithub": "AliaksandrMamonenka",
+      "students": [
+        {
+          "studentGithub": "moluram",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "cheeska",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nesteklo",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dasnein",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksei Makas",
+      "mentorGithub": "Muskos",
+      "students": [
+        {
+          "studentGithub": "vireah",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "yarobei",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "alexandrtichon",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "yanyan155",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "pkutsilina",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Artsiom Lykau",
+      "mentorGithub": "lykovartem",
+      "students": [
+        {
+          "studentGithub": "glebhleb",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "segrey1989",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "kotukjubotuk",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nikkola07",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "alexandershaternik",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "okband",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Aleh Lipski",
+      "mentorGithub": "lipskiy-aleh",
+      "students": [
+        {
+          "studentGithub": "agentumbrella",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "justforwebcoding",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "anastasiaburlo",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "devandscorp",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "qucca",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "lexbogos",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "zebabrat",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Andrei Liaukou",
+      "mentorGithub": "liaukou",
+      "students": [
+        {
+          "studentGithub": "dimasquared",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "smetaninpavel",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "ol4ash",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "kasper1999",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "ivanmikhailenka1",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Andrei Lenkou",
+      "mentorGithub": "LenkouAndrei",
+      "students": [
+        {
+          "studentGithub": "goner52",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "poyuki",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "elmavis",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "rafchillons",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "kirylalexandrovich",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "vlad9719",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "mg3442",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Ron Lavit",
+      "mentorGithub": "Lavitr",
+      "students": [
+        {
+          "studentGithub": "mrdemonrush",
+          "checkedTasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "h0qw010xz",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nikitaklepanosov",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "provedenceva",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "daryz",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Artsiom Latyshau",
+      "mentorGithub": "artemlatyshev",
+      "students": [
+        {
+          "studentGithub": "sergeiobolevich",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "dimashcherbakov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "feulia",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "magi-a",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "andrewyanushkevich",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Viachaslau Latushkin",
+      "mentorGithub": "viachaslau-latushkin",
+      "students": [
+        {
+          "studentGithub": "alexandrasitnikova",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "vitalibrych333",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "pavelkiru",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "shestakoff1441",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "katezhukel",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Kuzniatsou",
+      "mentorGithub": "AliaksandrKuzniatsou",
+      "students": [
+        {
+          "studentGithub": "apivovarchik",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "ruslandimitriuk",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "temachkin11",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "iamhappy2day",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "katiekruchko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "artser97",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "stasnegreev",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Pavel Kuzniatsou",
+      "mentorGithub": "PavelKuzniatsou",
+      "students": [
+        {
+          "studentGithub": "maxbrainygame",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "oliver337",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "kotiknalune42",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "akselatom",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "maryiasiamenava",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "kotcher1",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "kirilltovpinets",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Bahdan Kutas",
+      "mentorGithub": "AgentKB",
+      "students": [
+        {
+          "studentGithub": "litwin90",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dzmitrybabak",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "systemghost",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "eugenetime",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "alexnaidovich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "ivanchikovvalentin",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "ewelai",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Viktar Kurbatski",
+      "mentorGithub": "Woozzone",
+      "students": [
+        {
+          "studentGithub": "bardashevich-matvei",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "korbann",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yevgeniypy",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "tatyana-andreichyk",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "supersmf",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Alexandra Kukolca",
+      "mentorGithub": "KukolcaAlexandra",
+      "students": [
+        {
+          "studentGithub": "sxe2255",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vovair",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "ingvaroldd",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "bragodin",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "fantom141",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "samo-war",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "artsiom kukharev",
+      "mentorGithub": "xeontem",
+      "students": [
+        {
+          "studentGithub": "silichstudent",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vvikota",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "Markup #1",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "leonard1k",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "mariakisel",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "qxfisher",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "bulbazubr",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzmitry Kudla",
+      "mentorGithub": "Linus2228",
+      "students": [
+        {
+          "studentGithub": "sergeybaranovichi",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "karina198",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "arturkudlo",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "dimasofff",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "6alex6kash6",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Denis Kravchenko",
+      "mentorGithub": "Shank111",
+      "students": [
+        {
+          "studentGithub": "kirillfilipp",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "gemsgame",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "axissixa57",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "maxstarovoitov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nemkev",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "ALIAKSEI KRAUCHANKA",
+      "mentorGithub": "aliakseikrauchanka",
+      "students": [
+        {
+          "studentGithub": "latiertiw",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "sined1",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vladzuev",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "christinaalimova",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Vitali Krasnou",
+      "mentorGithub": "error404as",
+      "students": [
+        {
+          "studentGithub": "robertiqk",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "pozharitskiy",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "aliakseik19",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "tarsupon",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Krasnou",
+      "mentorGithub": "aliaksandrkrasnou",
+      "students": [
+        {
+          "studentGithub": "andrey-lobach",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "pitergtx",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "alexandravlasenko",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "painincoming",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Vladislav Kovaliov",
+      "mentorGithub": "vladislavkovaliov",
+      "students": [
+        {
+          "studentGithub": "roman-nareiko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "evilamany",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "xvorob",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "pelya98",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Sergeh Korotkin",
+      "mentorGithub": "korotkin",
+      "students": [
+        {
+          "studentGithub": "pavelsab",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "ihartsykaka",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vldshch",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "naijelo",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "tridenet",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "darinalitvin",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "zhechka",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Alena Korachkina",
+      "mentorGithub": "Papialoushka",
+      "students": [
+        {
+          "studentGithub": "dmitryduk3",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nikola2390",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "sashajohnson",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yagorka1",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Viktoryia Klimenka",
+      "mentorGithub": "candentira",
+      "students": [
+        {
+          "studentGithub": "palessie",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "ustilushka",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "zzvipz",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "dmitrylenko",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "underdoglzd",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Kleshchukevich",
+      "mentorGithub": "sleepwalky",
+      "students": [
+        {
+          "studentGithub": "noviceblunderer",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "kristalys",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "splin-shady",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "katrin-kot",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "gattygamaun",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "mariyapolt",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksei Khlebnikau",
+      "mentorGithub": "FallenBY1",
+      "students": [
+        {
+          "studentGithub": "katepavlovich",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "youngbrick",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "alekengineer",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "kottt4",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "walkunderrain",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Artur Kazlouski",
+      "mentorGithub": "arturminsksum",
+      "students": [
+        {
+          "studentGithub": "a-lika",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "uniqkue",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "sqwezzy",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nikaneider",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "rebellix",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Maryna Kavetskaya",
+      "mentorGithub": "shparkivozhyk",
+      "students": [
+        {
+          "studentGithub": "sburnt",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "tserekhivan",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "presidentsboyfriend",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "eugenekhristo",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Mikalai Kavaliou",
+      "mentorGithub": "Nikkov17",
+      "students": [
+        {
+          "studentGithub": "artichoks",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "anastasiyanovikovag",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "margaretmint",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "anastasiyamazura",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "dezman66",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "exedystyle",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "gaddyya",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Yana Karotkina",
+      "mentorGithub": "yanaSelin",
+      "students": [
+        {
+          "studentGithub": "bsiropchik",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "scratchor",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "montes5",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "mrspunki",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "maksstef",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Katsiaryna Karanets",
+      "mentorGithub": "katekaranets",
+      "students": [
+        {
+          "studentGithub": "kozelkoff",
+          "checkedTasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "vladislavshyian",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "gleb-kukobnikov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "sokol147",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "dantewitcher",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "natiedei",
+          "checkedTasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "aliaksandrarybak",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Elizaveta Ivashkova",
+      "mentorGithub": "ivashkovaliza",
+      "students": [
+        {
+          "studentGithub": "stationtostation",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "tatsianacs",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "RS Activist",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "kharuk",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "wald3",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Alena Hrytsuk",
+      "mentorGithub": "HeleneGritsuk",
+      "students": [
+        {
+          "studentGithub": "devildummy",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "dzmitry-karachun-1987",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "serg8",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "nik-av",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "kishkun",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "tsygancova",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzmitry Hrachou",
+      "mentorGithub": "falizyer",
+      "students": [
+        {
+          "studentGithub": "bespodobno",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "anastasia1627",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "basch1727",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "lizabredberry",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "zartaich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "estel1591",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "alekseymishuk",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Hanna Hrabianiuk",
+      "mentorGithub": "AnnaGrebenyuk",
+      "students": [
+        {
+          "studentGithub": "yuliyahlukhatarenka",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "lapa17",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dmitrylutskovich",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "vladst90",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "atryomparfenenkov",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Yauheni Hladki",
+      "mentorGithub": "evgladkiy",
+      "students": [
+        {
+          "studentGithub": "evgenijkorob",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "anxair",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "siarohin",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "svyatlo",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "shurpelevas",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Yauheni Harokh",
+      "mentorGithub": "EvgeniiGrh",
+      "students": [
+        {
+          "studentGithub": "antonprotas",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "mickbetch",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "oconely",
+          "checkedTasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "natalianekrashevich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "iryna-mazura",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "RS Activist",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "kamenkoalexandr",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "garin87",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Ilya Hancharyk",
+      "mentorGithub": "AmsterGet",
+      "students": [
+        {
+          "studentGithub": "tebeskashi",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "pinkrefugee",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "daqueze21",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "beetle23",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "lynyx",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "tomsssm",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "colambus13",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Yuliya Haluza",
+      "mentorGithub": "yuliaHope",
+      "students": [
+        {
+          "studentGithub": "artyommakarov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "levsha87",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "hottab9595",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "achyrych",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "arkadz",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "maniuska",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "sachoks",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Konstantin Grigorchuk",
+      "mentorGithub": "PredokMiF",
+      "students": [
+        {
+          "studentGithub": "belkacraft",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "kasatka660",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "warryr",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "alexandrapozniak",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yuliabakhar",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Valeri Gorobets",
+      "mentorGithub": "valeraGorobets",
+      "students": [
+        {
+          "studentGithub": "ivandubrouski",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "mrforsyte",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "krisstets",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yuriy17",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "olgakuksa",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "eliznovo",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vitalij21",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Pavel Glebov",
+      "mentorGithub": "pavelglebov",
+      "students": [
+        {
+          "studentGithub": "oaliona",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "feodorius",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "ihar777",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "dzianiskavalionak",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "alexsmyk1992",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vbkoshak",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Fiodarau",
+      "mentorGithub": "aliaksandrfiodarau",
+      "students": [
+        {
+          "studentGithub": "burach0k",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "denyingthetruth",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "invikto",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "khaliulinroman",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzianis Dashkevich",
+      "mentorGithub": "DenisDashkevich",
+      "students": [
+        {
+          "studentGithub": "yevganytyurin",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "pofs",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "alexeykuril0",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "kragov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "gruzinskiiartem",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "pivchenkosv",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "andreisavelyev",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Siarhei Churylin",
+      "mentorGithub": "Sergey-Churilin",
+      "students": [
+        {
+          "studentGithub": "gegorov",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist"
+          ]
+        },
+        {
+          "studentGithub": "ilyakabanov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yurec0gurec",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Markup #1",
+            "Markup #1",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "gubnich",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzmitry Chuchva",
+      "mentorGithub": "dzmitry-chuchva",
+      "students": [
+        {
+          "studentGithub": "modrix",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "scarletcamomile",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "tani4ik",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Yauhen Chaika",
+      "mentorGithub": "EugeneCh",
+      "students": [
+        {
+          "studentGithub": "ivchenkopavel",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "ruboscope",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "alesya-polovets",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "geek10010",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "antonykor",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "saniok017",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "dzmitryalfer",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Viktoryia Budzionnaya",
+      "mentorGithub": "elkinny",
+      "students": [
+        {
+          "studentGithub": "kottanakor",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "daryazel",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "alenakharytonchyk",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "drizzlman",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yonguksaram",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Denis Bozhyk",
+      "mentorGithub": "den-bozhyk",
+      "students": [
+        {
+          "studentGithub": "mailikey",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vladesco",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "drdiman",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "dzmitrymashuk",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "ipixby",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nickprudnik",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vitalitybo",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Katsiaryna Birulia",
+      "mentorGithub": "kbirulia",
+      "students": [
+        {
+          "studentGithub": "vergonini",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "katiar",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "anaumovich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "kirillkolesnik123",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Denis Bezak",
+      "mentorGithub": "BezakDenis",
+      "students": [
+        {
+          "studentGithub": "aleks210219",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "krlktv",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dsv-sergey",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "nadezhda-kotova",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "alexalizurchik",
+          "checkedTasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "pavellyolya",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Anton Bely",
+      "mentorGithub": "ToshaBely",
+      "students": [
+        {
+          "studentGithub": "arkhipenka",
+          "checkedTasks": [
+            "Markup #1",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "abespolov",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "zzhiharevich",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dimaspivas",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "maxkonopelko",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Natallia Belavusava",
+      "mentorGithub": "belousova-natallia",
+      "students": [
+        {
+          "studentGithub": "garnich",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "altobeyk",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "stigmatory15",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "kmetkokate",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Vera Barysava",
+      "mentorGithub": "TomasSpring",
+      "students": [
+        {
+          "studentGithub": "annakolesnikova",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "eliendil",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "a11mo",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "thecobolt",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dmitri Bardt",
+      "mentorGithub": "ximet",
+      "students": [
+        {
+          "studentGithub": "dianatsevan",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "christopher-0118",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "happy-mary",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "onaker",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "igorbyl",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "maksyermak",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "riba0017",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Tatsiana Bakhmatovich",
+      "mentorGithub": "Tanya-Bakhmatovich",
+      "students": [
+        {
+          "studentGithub": "fogfug1",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "yauhenilyin",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dmitrigorchanin",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "soundmafi",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzmitry Bahachuk",
+      "mentorGithub": "sintet",
+      "students": [
+        {
+          "studentGithub": "aspowerr",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "shchelkunchik",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "thatcherrr",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "torioyoshiko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "julialar4enko",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yasell",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "aleksandrmedvedev9000",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Palina Babrounik",
+      "mentorGithub": "PolinaBobrovnik",
+      "students": [
+        {
+          "studentGithub": "wowprojeck",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "andvikvin",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "alinkalu",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "marry705",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "fursaleksey",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "hursevichsergey",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Siarhei Ausianik",
+      "mentorGithub": "SergeyShatter",
+      "students": [
+        {
+          "studentGithub": "cuppake",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "pirsfrommi6",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "RS Activist",
+            "Markup #1"
+          ]
+        },
+        {
+          "studentGithub": "luffi2539",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist"
+          ]
+        },
+        {
+          "studentGithub": "kirilltk",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksei Astafyeu",
+      "mentorGithub": "tr3v3r",
+      "students": [
+        {
+          "studentGithub": "bezchekera",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nadinaaa",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "studentGithub": "volunyshka",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "grnkvch",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "driliad",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "yanamina",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Uladzimir Artsemenka",
+      "mentorGithub": "vinfinit",
+      "students": [
+        {
+          "studentGithub": "egoncharov",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "elostryy",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "eauheni",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "mikhailnakanechny",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "maringoka",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Amialkovich",
+      "mentorGithub": "amelk9n",
+      "students": [
+        {
+          "studentGithub": "vitalur",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "jrzlve",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "panikutysh",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vlukyane",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Dzmitry Aliaksandrau",
+      "mentorGithub": "alidzm",
+      "students": [
+        {
+          "studentGithub": "devbarden",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "nicklevkovich",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "poiskull",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "mrio1",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "studentGithub": "alexkashpor",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "dmsomov",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Yuliia Alaieva",
+      "mentorGithub": "JuliaAlaeva",
+      "students": [
+        {
+          "studentGithub": "mariannagarbuzova",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "pytniza",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "ronavea",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube"
+          ]
+        },
+        {
+          "studentGithub": "ahrechushkin",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "huriosity",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Viktoryia Verasava",
+      "mentorGithub": "ViktoryiaVerasava",
+      "students": [
+        {
+          "studentGithub": "psychotheus",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "lowershotower",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "bn1knb",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "zerovers",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "RS Activist",
+            "RS Activist"
+          ]
+        },
+        {
+          "studentGithub": "25kopek",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Tatsiana Stsepchanka",
+      "mentorGithub": "stsepchanka",
+      "students": [
+        {
+          "studentGithub": "max-violent",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "rick42morty",
+          "checkedTasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "studentGithub": "dloz",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "scifsyh",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "tgfrey",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Kazhamiaka",
+      "mentorGithub": "mkinitcpio",
+      "students": [
+        {
+          "studentGithub": "slayer110",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "quiquek007",
+          "checkedTasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Presentation",
+            "YouTube",
+            "RS Activist",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "studentGithub": "mohax-13",
+          "checkedTasks": [
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "studentGithub": "ksenia-ok",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "artsiom-zhuk",
+          "checkedTasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "mentorName": "Maksim Kantsavy",
+      "mentorGithub": "clainatomi-zero",
+      "students": [
+        {
+          "studentGithub": "alexandrshlyaeu",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "nicalas93",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vldmr1",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "shinoby85",
+          "checkedTasks": []
+        }
+      ]
+    },
+    {
+      "mentorName": "Aliaksandr Famchankou",
+      "mentorGithub": "famchankou",
+      "students": [
+        {
+          "studentGithub": "vladimirdobrik",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "tvorchud",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "iharvypau",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "vitalijsk",
+          "checkedTasks": []
+        },
+        {
+          "studentGithub": "fcsm-andrei",
+          "checkedTasks": []
+        }
+      ]
+    }
+  ]
+}
